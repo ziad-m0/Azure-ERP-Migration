@@ -6,7 +6,7 @@
 
 # Allow main documentation and visuals
 !README.md
-!Project Diagram.jpg
+!Project Diagram.png
 
 # Allow the Deliverables folder
 !02-Deliverables/

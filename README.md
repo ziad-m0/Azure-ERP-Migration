@@ -23,7 +23,7 @@ The solution uses a **Hub-Spoke topology** to segregate workloads and centralize
 *   **Disaster Recovery:** Active-Passive setup using Azure Site Recovery (ASR).
 
 ### Topology Diagram
-![Project Diagram](Project%20Diagram.jpg)
+![Project Diagram](Project%20Diagram.png)
 
 ---
 
@@ -58,9 +58,12 @@ The solution uses a **Hub-Spoke topology** to segregate workloads and centralize
 ---
 
 ## 📝 Deliverables
-*   [Scope of Work](./02-Deliverables/01-Scope-of-Work.md)
-*   [Disaster Recovery Runbook](./02-Deliverables/02-DR-Runbook.md)
-*   [Network Architecture Design](./02-Deliverables/04-Hub-Spoke-Design.md)
+*   [Scope of Work](./02-Deliverables/01-Scope-of-Work.pdf)
+*   [Disaster Recovery Runbook](./02-Deliverables/02-DR-Runbook.pdf)
+*   [Network Architecture Design](./02-Deliverables/04-Hub_Spoke_Design.pdf)
+*   [Sizing Document](./02-Deliverables/03-Sizing-Document.pdf)
+*   [Subnet Segmentation](./02-Deliverables/05-Subnet_Segmentation.pdf)
+*   [Phased Project Plan](./02-Deliverables/06-Phased%20Project%20Plan.xlsx)
 
 ---
 
