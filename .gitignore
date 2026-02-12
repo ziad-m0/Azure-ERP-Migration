@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Allow git configuration
+!.gitignore
+
+# Allow main documentation and visuals
+!README.md
+!Project Diagram.jpg
+
+# Allow the Deliverables folder
+!02-Deliverables/
+
+# Inside Deliverables, allow only PDF and Excel files
+!02-Deliverables/*.pdf
+!02-Deliverables/*.xlsx
